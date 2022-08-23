@@ -1,1 +1,1 @@
-sticky#1111
+head developer @ discord.gg/tradebot
