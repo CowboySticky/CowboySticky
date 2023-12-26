@@ -1,1 +1,1 @@
-head developer @ discord.gg/tradebot
+head developer @ discord.gg/exploiting
